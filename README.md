@@ -26,6 +26,8 @@
 
   ![Hr Analytics PowerBi](https://github.com/rohithsomella/Hr-Analytics-Data-Analysis/assets/141708838/112b83b9-1807-4860-b36a-c2b2ba9cfd9e)
 
+![Hr analytics GIF](https://github.com/rohithsomella/Hr-Analytics-Data-Analysis/assets/141708838/347777d0-5c8d-4737-a1a2-cb76e62fa353)
+
 
 ## Insights
 
